@@ -1,4 +1,4 @@
-# shijm
+# shijm-sync
 
 ## 同步（sync）
 ###1.同步要解决的问题
